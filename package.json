@@ -1,0 +1,22 @@
+{
+  "name": "@webergency/auth",
+  "description": "Auth",
+  "version": "0.0.1",
+  "author": "radixxko",
+  "license": "MIT",
+  "main": "lib/auth.js",
+  "files": [
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webergency/auth.git"
+  },
+  "keywords": [
+    "auth",
+    "webergency"
+  ],
+  "dependencies": {
+    "@webergency/api": "^0.0.1"
+  }
+}
