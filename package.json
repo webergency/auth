@@ -17,6 +17,7 @@
     "webergency"
   ],
   "dependencies": {
+    "@liqd-js/jwt": "^1.1.1",
     "@webergency/api": "^0.0.1"
   }
 }
